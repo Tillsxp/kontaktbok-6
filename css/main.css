@@ -1,0 +1,51 @@
+header {
+    display: flex;
+    justify-content: center;
+    font-style:normal;
+    font-size: 80px;
+    font-weight: bold;
+    color: white;
+
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+a:link {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+a:visited {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-image: url(../img/IMG_3013.JPG);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#wrapper {
+    display: flex;
+    justify-content: center;
+
+    font-size:x-large;
+    color: black;
+    
+    margin-top: 30px;
+}
+
+.main {
+    background: rgba(240, 104, 58, 0.5);
+    width: 600px;
+}
+
+
+
+
